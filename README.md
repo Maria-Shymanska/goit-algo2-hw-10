@@ -19,6 +19,7 @@ Visualizes results using matplotlib (graph + table)
 
 📦 Requirements
 pip install matplotlib numpy
+
 ▶️ Run
 
 python quicksort_comparison.py
